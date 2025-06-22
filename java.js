@@ -1,0 +1,1 @@
+botao.addEventListener("click", () => {botao.innerHTML = "Teste os seus limites, enfrente os seus medos e não deixe que nada impeça você de pelo menos tentar!";});
